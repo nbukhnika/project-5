@@ -1,0 +1,56 @@
+header{
+    margin: 0 auto;
+    border: 3px solid red;
+    padding: 40px 0px 100px 69px;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+nav{
+    display: inline-block;
+    margin-left: 312px;
+
+}
+li{
+    display: inline;
+    font-size: 2rem;
+    margin-right: 83px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+
+/* section */
+section{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #008000;
+    padding: 110px 62px 154px 69px;
+
+}
+
+div{
+    width:400px;
+    display: inline-block;
+    /* border: 2px solid white; */
+    margin-left: 69px;
+}
+
+.section_title{
+    font-size: 36px;
+    color: #ffffff;
+    text-align: center;
+  margin-bottom: 35px;
+}
+.section_text{
+
+    font-size: 32px;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+   
+}

@@ -1,6 +1,7 @@
+/* header */
 header{
     margin: 0 auto;
-    border: 3px solid red;
+    /* border: 3px solid red; */
     padding: 40px 0px 100px 69px;
 }
 .logo{
@@ -21,14 +22,14 @@ li{
     color: red;
 }
 .green{
-    color: green;
+    color: #1F6519;
 }
 
 /* section */
 section{
     width: 1440px;
     margin: 0 auto;
-    background-color: #008000;
+    background-color: #1F6519;
     padding: 110px 62px 154px 69px;
 
 }
@@ -53,4 +54,55 @@ div{
     font-style: italic;
     color: #ffffff;
    
+}
+
+/* article */
+article{
+    width: 1440px;
+    height:488px;
+    margin: 0 auto;
+   background-color: #ffffff;
+   border: 3px solid red ;
+
+
+}
+.article_title{
+    font-size: 40px;
+    font-weight: 400;
+    padding: 92px 588px 92px 588px;
+color: #1F6519;
+/* border: 3px solid red ; */
+
+}
+.article_text{
+    width: 1017px;
+margin-left: 216px;
+margin-right: 216px;
+margin-bottom: 137px; 
+font-size: 32px;
+font-weight: 400;
+font-style: italic;
+color: #1F6519;
+/* border: 5px solid blue; */
+}
+
+/* footer */
+footer{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 77px 118px  81px 108px;
+    display: inline-block;
+    background-color: #1F6519;
+    /* border: 2px solid blue; */
+}
+
+.footer_text{
+    width: 400px;
+   margin-left: 851px;
+   font-size: 18px;
+   font-weight: 400;
+    color: #ffffff;
+     /* border: 3px solid red ; */
+
+
 }
